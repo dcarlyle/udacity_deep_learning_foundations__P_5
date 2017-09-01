@@ -1,8 +1,23 @@
+PICTURES :)
+
+
 # Face generation
 
-In this project we used Python to program a Generative adversarial network (GAN) to create photo realistic imges of people.
+In this project I developed a Generative adversarial network (GAN) to create photo-realistic images of people. 
 
-# What is a GAN?
+The GAN was trained initially on the [MINST handwritten database](https://en.wikipedia.org/wiki/MNIST_database), to quickly check it's design, performance and accuracy. 
+
+The GAN consisted of two main parts:
+
++ The adversariay 
+After designing and tuning the converlutional neural network (CNN) used to analyse the images 
+
+## Platform and tools
+AWS 
+Python
+
+
+## What is a GAN?
 According to [Yann LeCun](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)(director of Facebook AI) "General Adversarial Networks is the most **interesting idea in the past ten years** in machine learning."
 
 In 2014 Ian Goodfellow returned home from a going away drinks at the bar, where he and his friends were discussing issues around the inefficient method by which a machine learning algorithm learns about unlabelled data. An example of this is who a child learns to recognise a letter in the alphabet that their teacher shows them, they only need to see it a few times, where as amachine learning algorithms need to be shown thousands of variations of the same letter before they can perform the same image recognition task.
