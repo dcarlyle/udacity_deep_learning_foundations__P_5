@@ -1,6 +1,3 @@
-PICTURES :)
-
-
 # Face generation
 
 ![alt text](https://raw.githubusercontent.com/dcarlyle/udacity_deep_learning_foundations__P_5/master/wireframe_face_udacity.png "Face wireframe") In this project I developed a Generative adversarial network (GAN) to create photo-realistic images of people. The machine learning algorithm didn't simply look up images of faces from a database, each image was generated at random by the algorithm and is totally imaginary.
@@ -10,7 +7,7 @@ GANs use two neural networks, one to generate the image and the adversary to dis
 ## The results
 Just after a few hours of training we can see the output starting to produce quite realistic images of human faces.
 
-(https://raw.githubusercontent.com/dcarlyle/udacity_deep_learning_foundations__P_5/master/generated_faces.png "Face creation with GANs")
+![alt text](https://raw.githubusercontent.com/dcarlyle/udacity_deep_learning_foundations__P_5/master/generated_faces.png "Face creation with GANs")
 
 
 ## Training the GAN
